@@ -4,12 +4,12 @@ import { SearchBar } from "./SearchBar";
 import { DisplayComponent } from "./DisplayComponent";
 
 const configObj = {
-  client_id: "Kathan29",
-  client_secret: "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",
+  client_id: "595a806f91fd038dbd31",
+  client_secret: "b52cf47d6f12efd0fec1f5561790cdca62851254",
   repos_count: 5,
   repos_sort: "created: asc",
-  token: ""
-};
+  token: "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"
+}; 
 
 export const UserContainer = () => {
   //api calls
